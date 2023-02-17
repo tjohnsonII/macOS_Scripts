@@ -1,0 +1,12 @@
+total 14520
+drwxr-xr-x   11 tim2  staff      352 Feb  9 21:40 .
+drwx------@ 145 tim2  staff     4640 Feb  8 14:40 ..
+-rw-r--r--    1 tim2  staff      187 Feb  9 21:36 fileSystem.txt
+-rwxr-xr-x@   1 tim2  staff      150 Feb  9 21:32 fileSystemScript.sh
+-rw-r--r--    1 tim2  staff  6610302 Feb  9 21:37 hardwareInfo.txt
+-rwxr-xr-x@   1 tim2  staff      142 Feb  9 21:34 hardwareInfoScript.sh
+-rwxr-xr-x@   1 tim2  staff      249 Feb  9 21:35 networkInfoScript.sh
+-rwxr-xr-x    1 tim2  staff      109 Feb  9 21:39 runScripts.sh
+-rw-r--r--    1 tim2  staff        0 Feb  9 21:40 test.txt
+-rwxr-xr-x@   1 tim2  staff      108 Feb  9 21:18 userInfoScript.sh
+-rw-r--r--    1 tim2  staff      985 Feb  9 21:36 userinfo.txt

@@ -1,0 +1,54 @@
+du: /usr/src/sys/kern/*.c: No such file or directory
+2023-02-09 23:56:08.270 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.271 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.272 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.272 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.272 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.273 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:56:08.273 system_profiler[87710:884589] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+du: /usr/src/sys/kern/*.c: No such file or directory
+2023-02-09 23:58:23.062 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.063 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.064 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.064 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.064 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.065 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-09 23:58:23.065 system_profiler[87939:887178] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+traceroute to google.com (142.250.190.110), 64 hops max, 52 byte packets
+du: /usr/src/sys/kern/*.c: No such file or directory
+2023-02-10 00:00:39.192 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.194 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.194 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.194 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.195 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.195 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:00:39.196 system_profiler[88143:889459] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+traceroute to google.com (142.250.190.110), 64 hops max, 52 byte packets
+traceroute to google.com (142.250.190.110), 64 hops max, 52 byte packets
+du: /usr/src/sys/kern/*.c: No such file or directory
+2023-02-10 00:49:28.227 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.228 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.228 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.229 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.229 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.230 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:49:28.231 system_profiler[91040:922972] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+du: /usr/src/sys/kern/*.c: No such file or directory
+du: /usr/src/sys/kern/*.c: No such file or directory
+2023-02-10 00:52:34.493 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.494 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.494 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.495 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.495 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.496 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:52:34.497 system_profiler[91447:926199] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.464 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.465 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.465 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.466 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.466 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.467 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2023-02-10 00:53:05.467 system_profiler[91556:926961] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+traceroute to google.com (142.250.190.110), 64 hops max, 52 byte packets
+traceroute to google.com (142.250.190.14), 64 hops max, 52 byte packets
+traceroute to google.com (142.250.190.14), 64 hops max, 52 byte packets

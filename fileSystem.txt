@@ -1,0 +1,19 @@
+4.0K	./networkInfoScript.sh
+  0B	./fileSystem.txt
+4.0K	./fileSystemScript.sh
+4.0K	./userinfo.txt.gz
+4.0K	./hardwareInfoScript.sh
+4.0K	./userInfoScript.sh
+4.0K	./runScripts.sh
+ 28K	./hardwareInfo.txt.gz
+4.0K	./networkInfo.txt.gz
+4.0K	./fileSystem.txt.gz
+  0B	./networkInfo.txt
+4.0K	./test.txt
+  0B	./userinfo.txt
+  0B	./hardwareInfo.txt
+4.0K	./nohup.out
+ 68K	.
+ 84K	.
+  0B	/home
+  0B	total
