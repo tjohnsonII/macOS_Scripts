@@ -1,3 +1,29 @@
+4.0K	./macOS_Scripts/.git/config
+  0B	./macOS_Scripts/.git/objects/pack
+  0B	./macOS_Scripts/.git/objects/info
+  0B	./macOS_Scripts/.git/objects
+4.0K	./macOS_Scripts/.git/HEAD
+4.0K	./macOS_Scripts/.git/info/exclude
+4.0K	./macOS_Scripts/.git/info
+4.0K	./macOS_Scripts/.git/description
+4.0K	./macOS_Scripts/.git/hooks/commit-msg.sample
+8.0K	./macOS_Scripts/.git/hooks/pre-rebase.sample
+4.0K	./macOS_Scripts/.git/hooks/pre-commit.sample
+4.0K	./macOS_Scripts/.git/hooks/applypatch-msg.sample
+4.0K	./macOS_Scripts/.git/hooks/fsmonitor-watchman.sample
+4.0K	./macOS_Scripts/.git/hooks/pre-receive.sample
+4.0K	./macOS_Scripts/.git/hooks/prepare-commit-msg.sample
+4.0K	./macOS_Scripts/.git/hooks/post-update.sample
+4.0K	./macOS_Scripts/.git/hooks/pre-applypatch.sample
+4.0K	./macOS_Scripts/.git/hooks/pre-push.sample
+4.0K	./macOS_Scripts/.git/hooks/update.sample
+ 48K	./macOS_Scripts/.git/hooks
+  0B	./macOS_Scripts/.git/refs/heads
+  0B	./macOS_Scripts/.git/refs/tags
+  0B	./macOS_Scripts/.git/refs
+  0B	./macOS_Scripts/.git/branches
+ 64K	./macOS_Scripts/.git
+ 64K	./macOS_Scripts
 4.0K	./networkInfoScript.sh
   0B	./fileSystem.txt
 4.0K	./fileSystemScript.sh
@@ -5,15 +31,73 @@
 4.0K	./hardwareInfoScript.sh
 4.0K	./userInfoScript.sh
 4.0K	./runScripts.sh
- 28K	./hardwareInfo.txt.gz
+4.0K	./hardwareInfo.txt.gz
 4.0K	./networkInfo.txt.gz
 4.0K	./fileSystem.txt.gz
   0B	./networkInfo.txt
 4.0K	./test.txt
   0B	./userinfo.txt
+4.0K	./.git/config
+4.0K	./.git/objects/3d/d56ccfa8061f87d1ea6285464d81ef58637f43
+4.0K	./.git/objects/3d
+4.0K	./.git/objects/0e/b8d7253193cccf183253b6278b03ad451f160d
+4.0K	./.git/objects/0e
+4.0K	./.git/objects/d1/d3251b52bed61767afd32a2152f30c3eb2e471
+4.0K	./.git/objects/d1
+4.0K	./.git/objects/d8/1176fdfd9b6f8bbd368ed052d6b588b2449b8f
+4.0K	./.git/objects/d8
+4.0K	./.git/objects/f2/d57ac5cadf227d9e54049a7cdeec6589b096a5
+4.0K	./.git/objects/f2
+4.0K	./.git/objects/f5/ae21d961aa3de3f4c51a433323a20fc06de2a5
+4.0K	./.git/objects/f5
+  0B	./.git/objects/pack
+4.0K	./.git/objects/7c/51784822e7e911194e760bbd7120986c904d18
+4.0K	./.git/objects/7c
+ 20K	./.git/objects/86/2d30b5076ca54f86ab529fc89b75c439e067d7
+ 20K	./.git/objects/86
+4.0K	./.git/objects/72/3d0715a8508f74c1fdb24db05f3b265bed89f0
+4.0K	./.git/objects/72
+ 20K	./.git/objects/36/2bf9e927c0592cdee8012ba6e811b4e2cc47de
+ 20K	./.git/objects/36
+  0B	./.git/objects/info
+4.0K	./.git/objects/5e/f9c317bf06f4d9fd042924b7124b91e318ab33
+4.0K	./.git/objects/5e
+364K	./.git/objects/a9/db08c89e64ca178c414905518099d8cfe50f44
+364K	./.git/objects/a9
+4.0K	./.git/objects/2d/b9dd006f096752019656477a27148c16ab199a
+4.0K	./.git/objects/2d
+4.0K	./.git/objects/4f/c0afd6de1b51c1e641c7d215c36eec3c5c9bed
+4.0K	./.git/objects/4f
+4.0K	./.git/objects/8d/3191b8b384278d2c2ae8b0ce8951a1e389429e
+4.0K	./.git/objects/8d
+4.0K	./.git/objects/25/8ae367cd2d7e7046352eea9e984a0e3cb46c6a
+4.0K	./.git/objects/25
+456K	./.git/objects
+4.0K	./.git/HEAD
+4.0K	./.git/info/exclude
+4.0K	./.git/info
+4.0K	./.git/description
+4.0K	./.git/hooks/commit-msg.sample
+8.0K	./.git/hooks/pre-rebase.sample
+4.0K	./.git/hooks/pre-commit.sample
+4.0K	./.git/hooks/applypatch-msg.sample
+4.0K	./.git/hooks/fsmonitor-watchman.sample
+4.0K	./.git/hooks/pre-receive.sample
+4.0K	./.git/hooks/prepare-commit-msg.sample
+4.0K	./.git/hooks/post-update.sample
+4.0K	./.git/hooks/pre-applypatch.sample
+4.0K	./.git/hooks/pre-push.sample
+4.0K	./.git/hooks/update.sample
+ 48K	./.git/hooks
+  0B	./.git/refs/heads
+  0B	./.git/refs/tags
+  0B	./.git/refs
+4.0K	./.git/index
+  0B	./.git/branches
+524K	./.git
   0B	./hardwareInfo.txt
-4.0K	./nohup.out
- 68K	.
- 84K	.
+ 12K	./nohup.out
+640K	.
+656K	.
   0B	/home
   0B	total

@@ -3,12 +3,12 @@ tim2             console      Feb  8 12:33
 tim2             ttys000      Feb  8 12:33 
 tim2             ttys002      Feb  9 23:37 
 tim2             ttys003      Feb 10 00:09 
- 0:52  up 1 day, 12:19, 4 users, load averages: 3.61 3.16 2.94
+ 1:06  up 1 day, 12:33, 4 users, load averages: 3.97 3.35 3.09
 USER     TTY      FROM              LOGIN@  IDLE WHAT
 tim2     console  -                Wed12   1day  -
-tim2     s000     -                Wed12       - w
-tim2     s002     -                Thu23      38 less -s       ÿ¿    /usr/bin/l
-tim2     s003     -                 0:09      35 top
+tim2     s000     -                Wed12       - du -hs /home          ÿ¿    /u
+tim2     s002     -                Thu23      52 less -s       ÿ¿    /usr/bin/l
+tim2     s003     -                 0:09      49 top
 tim2      ttys003                   Fri Feb 10 00:09   still logged in
 tim2      ttys002                   Thu Feb  9 23:37   still logged in
 tim2      ttys000                   Wed Feb  8 12:33   still logged in
